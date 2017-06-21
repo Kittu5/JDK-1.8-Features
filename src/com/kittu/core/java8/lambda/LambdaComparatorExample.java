@@ -1,4 +1,4 @@
-package com.kittu.core.lambda;
+package com.kittu.core.java8.lambda;
 
 import java.util.ArrayList;
 import java.util.Collections;

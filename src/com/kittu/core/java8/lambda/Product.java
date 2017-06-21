@@ -1,4 +1,4 @@
-package com.kittu.core.lambda;
+package com.kittu.core.java8.lambda;
 
 public class Product {
 

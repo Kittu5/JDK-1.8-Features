@@ -1,4 +1,4 @@
-package com.kittu.core.methodInterface;
+package com.kittu.core.java8.methodInterface;
 
 public class MethodInterfaceExample1 {
 
